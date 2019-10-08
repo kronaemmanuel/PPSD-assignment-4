@@ -34,6 +34,7 @@ It may also include post installation activities
 
 - Typically starts with a sysadmin who is tasked with assembling the existing software components and deploying them to work together to produce a *service*
 - Sysadmin runs the service and responds to the events and updates as they occur
+- Only intended for advanced users when more control of applicationn server is required 
 
 **Advantages**
 - A familiar industry paradigm for companies in terms of hiring and running staff
